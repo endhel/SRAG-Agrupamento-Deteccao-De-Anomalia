@@ -1,1 +1,1 @@
-# SRAG-Agrupamento-Deteccao-De-Anomalia
+# SRAG - Agrupamento e Detecção de Anomalia
