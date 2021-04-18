@@ -8,7 +8,7 @@ A base de dados disponibilizada pelo governo diz respeito a Casos de Síndrome R
 
 A SRAG é um agravamento de infecções respiratórias. Os sintomas geralmente são febre de início súbito, mesmo que referida, acompanhada de tosse ou dor de garganta e pelo menos um dos sintomas: mialgia, cefaleia ou artralgia.
 
-Foram aplicadas as técnicas de mineração de dados, agrupamento e detecção de anomalias. Os algoritmos utilizados foram o KMeans e o KNN. O [código](https://github.com/endhel/SRAG-Agrupamento-Deteccao-De-Anomalia/blob/main/SRAG-Agrupamento-Deteccao-Anomalias.ipynb) está devidamente comentado e o [relatório](https://github.com/endhel/SRAG-Agrupamento-Deteccao-De-Anomalia/blob/main/Relatorio.pdf) contém explicações detalhadas sobre cada um dos resultados encontrados.
+Foram aplicadas as técnicas de mineração de dados, agrupamento e detecção de anomalias utilizando os algoritmos KMeans e o KNN. O [código](https://github.com/endhel/SRAG-Agrupamento-Deteccao-De-Anomalia/blob/main/SRAG-Agrupamento-Deteccao-Anomalias.ipynb) está devidamente comentado e o [relatório](https://github.com/endhel/SRAG-Agrupamento-Deteccao-De-Anomalia/blob/main/Relatorio.pdf) contém explicações detalhadas sobre cada um dos resultados encontrados.
 
 
 
